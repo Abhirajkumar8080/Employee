@@ -1,0 +1,6 @@
+{
+  "name": "Employee Register",
+  "description": "Employee registration and management app with payment codes, document & nominee records, 60-day inactivity code deactivation, and direct owner UPI renewal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
